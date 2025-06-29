@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm an embedded software engineer, dedicated to tackling complex problems in real time systems.
+
+I have experience in:
+
+- 🔋Battery management system
+- :signal_strength: WiFi firmware and device drivers
+
 <!--
 **seyoungjeong/seyoungjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
