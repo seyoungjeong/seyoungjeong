@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-I'm an embedded software engineer, dedicated to tackling complex problems in real time systems.
+I'm an embedded software engineer, dedicated to tackling complex problems and builing robust software in real time systems.
 
 I have experience in:
 
-- 🔋Battery management system
-- :signal_strength: WiFi firmware and device drivers
+- 🔋 Battery management system
+- 📶 WiFi firmware and device drivers
+- 👢 Secure boot loader
+- 🏗️ CI/CD pipelines
+- 🤖 Hardware bring-up and troubleshooting 
+
+## Tech stack 🚀
 
 <!--
 **seyoungjeong/seyoungjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
