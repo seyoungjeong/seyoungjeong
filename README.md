@@ -4,7 +4,7 @@ I'm an embedded software engineer, dedicated to tackling complex problems and bu
 
 I have experience in:
 
-- Architecturing and developing frimware for mission critical and fault tolerant systems 
+- Architecturing and developing firmware for mission critical and fault tolerant systems 
 - Hardware bring-up and troubleshooting
 
 📫 How to reach me: seyoungjeong@gmail.com 🤷‍♂️ Pronouns: He/Him
