@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-I'm an embedded software engineer, dedicated to tackling complex problems and builing robust software in real time systems.
-
-I have experience in:
-
-- Architecturing and developing firmware for mission critical and fault tolerant systems 
-- Hardware bring-up and troubleshooting
-
-📫 How to reach me: seyoungjeong@gmail.com 🤷‍♂️ Pronouns: He/Him
+I'm an embedded software engineer committed to solving complex problems and building reliable, real-time system software.
 
 ### Tech stack 🚀
 
@@ -23,10 +16,9 @@ I have experience in:
 
 #### Framework
 
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### Cloud
 
