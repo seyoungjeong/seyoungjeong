@@ -1,5 +1,1 @@
-### Seyoung Jeong
-
-- **Experience:** Former Software Engineer at Amazon & Microsoft.
-- **Focus:** System architecture, robust software design, and optimization.
-- **Current Activity:** Exploring and beginning to contribute to open-source projects.
+I am an Embedded Software Engineer currently based in Busan, South Korea, following my career in the Greater Seattle Area. My professional background includes software engineering roles at Amazon, Microsoft, and Qualcomm. My expertise lies in RTOS, C/C++, Linux, and firmware development for mission-critical systems such as flight compute, drones, and WLAN. I am currently exploring and beginning to contribute to open-source projects.
