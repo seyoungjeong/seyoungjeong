@@ -8,3 +8,5 @@ I am an Embedded Software Engineer currently based in Busan, South Korea, follow
 <a href="https://www.credly.com/badges/c2a19cf9-3e83-447e-b904-29f906a4891b/public_url">
   <img src="https://www.credly.com/badges/c2a19cf9-3e83-447e-b904-29f906a4891b/public_url" width="150" alt="Credly Badge">
 </a>
+
+[![Credly Badge](PASTE_COPIED_IMAGE_URL_HERE)](https://www.credly.com/badges/c2a19cf9-3e83-447e-b904-29f906a4891b/public_url)
