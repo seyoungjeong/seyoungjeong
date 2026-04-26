@@ -1,5 +1,4 @@
-I am an embedded software engineer currently based in Busan, South Korea, following my career in the greater Seattle area. My professional background includes software engineering roles at Amazon, Microsoft, and Qualcomm. My expertise lies in RTOS, C/C++, Linux, and firmware development for mission-critical systems such as flight compute, drones, and WLAN. I am currently exploring and beginning to contribute to open-source projects, and _I am actively seeking remote job opportunities_.
-
+I am an embedded software engineer currently based in Busan, South Korea, following my career in the greater Seattle area. My professional background includes software engineering roles at Amazon, Microsoft, and Qualcomm. My expertise lies in RTOS, C/C++, Linux, and firmware development for mission-critical systems such as flight compute, drones, and WLAN. I am currently exploring and beginning to contribute to open-source projects, and *I am actively seeking remote job opportunities.*
 <br><br>
 
 <div align="center">
