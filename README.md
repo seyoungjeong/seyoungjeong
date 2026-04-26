@@ -29,8 +29,4 @@ I am an embedded software engineer currently based in Busan, South Korea, follow
   </table>
 </div>
 
-<div align="center">
-  <a href="https://www.credly.com/badges/c2a19cf9-3e83-447e-b904-29f906a4891b/public_url">
-    <img src="https://images.credly.com/size/680x680/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png" width="70" alt="Zephyr Technical Contributor">
-  </a>
-</div>
+
